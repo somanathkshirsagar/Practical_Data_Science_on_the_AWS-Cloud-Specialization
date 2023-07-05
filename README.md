@@ -22,28 +22,8 @@
     * **Week 4: Built-in algorithms**
         * Train a text classifier with BlazingText and deploy the classifier as a real-time inference endpoint to serve predictions.
 
+# coming soon
 
-# 2. **Build, Train, and Deploy ML Pipelines using BERT**
-* In the second course of the Practical Data Science Specialization, you will learn to automate a natural language processing task by building an end-to-end machine learning pipeline using Hugging Face’s highly-optimized implementation of the state-of-the-art BERT algorithm with Amazon SageMaker Pipelines. Your pipeline will first transform the dataset into BERT-readable features and store the features in the Amazon SageMaker Feature Store. It will then fine-tune a text classification model to the dataset using a Hugging Face pre-trained model, which has learned to understand the human language from millions of Wikipedia documents. Finally, your pipeline will evaluate the model’s accuracy and only deploy the model if the accuracy exceeds a given threshold.
-* Practical data science is geared towards handling massive datasets that do not fit in your local hardware and could originate from multiple sources. One of the biggest benefits of developing and running data science projects in the cloud is the agility and elasticity that the cloud offers to scale up and out at a minimum cost.
-* **Structure**
-    * **Week 1: Feature Engineering and Feature Store**
-        * Transform a raw text dataset into machine learning features and store features in a feature store. 
-    * **Week 2: Train, Debug, and Profile a Machine Learning Model**
-        * Fine-tune, debug, and profile a pre-trained BERT model.
-    * **Week 3: Deploy End-To-End Machine Learning pipelines**
-        * Orchestrate ML workflows and track model lineage and artifacts in an end-to-end machine learning pipeline.
-
-# 3. **Optimize ML Models and Deploy Human-in-the-Loop Pipelines**
-* In the third course of the Practical Data Science Specialization, you will learn a series of performance-improvement and cost-reduction techniques to automatically tune model accuracy, compare prediction performance, and generate new training data with human intelligence.  After tuning your text classifier using Amazon SageMaker Hyper-parameter Tuning (HPT), you will deploy two model candidates into an A/B test to compare their real-time prediction performance and automatically scale the winning model using Amazon SageMaker Hosting. 
-* Lastly, you will set up a human-in-the-loop pipeline to fix misclassified predictions and generate new training data using Amazon Augmented AI and Amazon SageMaker Ground Truth.
-* **Structure**
-    * **Week 1: Advanced model training, tuning and evaluation**
-        * Train, tune, and evaluate models using data-parallel and model-parallel strategies and automatic model tuning.
-    * **Week 2: Advanced model deployment and monitoring**
-        * Deploy models with A/B testing, monitor model performance, and detect drift from baseline metrics.
-    * **Week 3: Data labeling and human-in-the-loop pipelines**
-        * Label data at scale using private human workforces and build human-in-the-loop pipelines.
 
 
 
