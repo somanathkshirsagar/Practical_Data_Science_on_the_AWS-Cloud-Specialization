@@ -22,7 +22,7 @@
     * **Week 4: Built-in algorithms**
         * Train a text classifier with BlazingText and deploy the classifier as a real-time inference endpoint to serve predictions.
 
-# coming soon 
+# coming soon   
 
 
 
