@@ -1,6 +1,6 @@
 # Practical-Data-Science-on-the-AWS-Cloud-Specialization                            
 * learning from **@DeepLearning.AI**                   
-
+ 
 
 ## About this Specialization   
 * The Practical Data Science Specialization brings together these disciplines using purpose-built ML tools in the AWS cloud. It helps you develop the practical skills to effectively deploy your data science projects and overcome challenges at each step of the ML workflow using Amazon SageMaker. 
