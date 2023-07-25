@@ -1,5 +1,5 @@
 # Practical-Data-Science-on-the-AWS-Cloud-Specialization                                        
-* learning from **@DeepLearning.AI**                      
+* learning from **@DeepLearning.AI**                       
  
 
 ## About this Specialization   
